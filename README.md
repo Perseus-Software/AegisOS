@@ -8,4 +8,5 @@ The base system will only have the following software (This is only default you 
 - bash
 - nano
 - runit
+
 That is all I can think of for now may add more later :3 
